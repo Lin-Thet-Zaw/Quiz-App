@@ -1,0 +1,20 @@
+Information technology is the use of computers to store, retrieve, transmit, and manipulate data or information. |True|False||True
+IT is typically used within the context of business operations as opposed to personal or entertainment technologies. |True|False||True
+IT is considered to be a subset of information and communications technology. |True|False||True
+ARPA stands for Advanced Research Projects Agency. |True|False||True
+NSF stands for National Science Foundation. |True|False||True
+FTP stands for _______. |File Transfer Protocol|File Transmission Protocol|File Transport Protocol|File Transfer Protocol
+WWW stands for _______. |World Wide Web|World War Web|World Web Web|World Wide Web 
+IMP stands for _______. |Interface Message Processor|Interface Message Protocol|Internet Message Protocol|Interface Message Processor
+LAN stands for _______. |Wide Area Network|Local Area Network|Personal Area Network|Local Area Network
+TCP/IP stands for Transmission Control Protocol/Internet Protocol. |True|False||True
+Ethernet is a type of Local Area Network. |True|False||True
+GUI stands for _______. |Graphical User Interface|Graphical Usage Interface|Graphical Uniform Interface|Graphical User Interface
+CLI stands for Command Line Interface. |True|False||True
+HTTP stands for Hypertext Transmission Protocol. |True|False||False
+HTML stands for Hypertext Makeup Locator. |True|False||True
+URL stands for Uniform Resource Locator. |True|False||True
+Point-of-Sale (POS) system is type of System Software. |True|False||False
+Linux, Android and Windows operating system are type of System Software. |True|False||True
+The Internet is the wider network that allows computer networks around the world run by companies, governments, universities and other organizations to talk to one another. |True|False||True
+HTTP stands for _______. |Hypertext Transfer Protocol|Hypertext Transmission Protocol|Hypertext Telegraph Protocol|Hypertext Transfer Protocol
